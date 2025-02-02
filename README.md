@@ -4,6 +4,7 @@ A1: RESEARCH QUESTION:
 
 What factors contribute to customer churn?
 
+
 A2: GOALS:
 
 The goal of this analysis is to find out what makes customers churn. I will use a logistic regression model to see how different factors like age, income, and the services they use affect whether they stay or churn. I want to find out which factors are the most important and how they affect the chances of a customer churning. I will start by looking at different types of customers to see who is more likely to churn and who is more likely to stay. By predicting which customers might leave and checking how accurate the model is, I can help the company get great insights to help them keep more customers.
